@@ -1,3 +1,4 @@
+#By changing the alpha and beta values the the brightness of the image can be changed
 import cv2 as cv
 import numpy as np
 
